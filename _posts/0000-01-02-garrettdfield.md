@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+I am headed west.  I only hope I am not alone!
 Use the left arrow to go back!
